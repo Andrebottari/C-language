@@ -1,3 +1,8 @@
+//7) Faça um programa para ler do teclado uma quantidade de segundos e imprimir na tela a
+//conversão para horas, minutos e segundos.
+//Exemplo:
+//Entrada: 3672
+//Saída: 1:1:12
 #include<stdio.h>
 
 int main(){
