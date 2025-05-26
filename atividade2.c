@@ -16,4 +16,5 @@ int main(){
 
 
  printf("O valor de A: %d \n O valor de B: %d", b,a);
-}
+ 
+return 0;}

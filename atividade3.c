@@ -28,4 +28,4 @@ int main(){
     printf("O valor TOTAL:R$ %.2f\n", valor_total);
     printf("O valor INDIVIDUAL:R$ %.2f", valor_individual);
 
-}
+return 0;}

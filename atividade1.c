@@ -19,4 +19,5 @@ int main(){
  b=c;
 
  printf("O valor de A: %d \n O valor de B: %d", a,b);
-}
+ 
+return 0;}
